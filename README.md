@@ -1,4 +1,4 @@
-#  jpa01-Rushabh
+# jpa01-Rushabh
 
 Deployed at: https://jpa01-rushabh.dokku-11.cs.ucsb.edu/
 
